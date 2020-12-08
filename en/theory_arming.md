@@ -1,0 +1,43 @@
+Software development should not be done two-dimensionally with agile and waterfall. Good selections according to QCDS should also be made for each element.
+
+- Scheduling (macro)
+    - An overall estimate is needed in any case.
+    - Smaller plans mean fewer cases in which not all of the necessary points are considered or backtracking is needed.
+    - For projects where something new is created, the scope must be established before starting or there is no guarantee that something the business can use will be created within the set period and budget. Use the same requirement definitions as normal.
+    - Write overall stories for the requirement definitions and then place them in time boxes.
+- Scheduling (micro)
+    - If time box delays gradually spread and delays become a regular occurrence, the buffers will be used immediately. Time boxes are the largest unit used to stop delays—make sure the whole team is conscious that strictly adhering to these is a lifeline.
+    - For this reason, stories should be split into tasks at the beginning of the time box and all tasks must be small enough to complete within five hours so that estimates do not become blurred.
+- Decision and approval of specifications
+    - Before the requirement definitions are completed, stories for implementing detailed specifications (equivalent to deliverables for standard external design) in time boxes should be decided  and approved if necessary. If an agreement on approved actions can be reached in sprint meetings, this should be done.
+- Testing
+    - No difference.
+    - Development by time box results in a proportionately large amount of overhead, so it is more costly than executing the whole project at once.
+    - With that said, some testing is needed in each time box (equivalent to standard functional unit testing). If the next story is added to untested content, this frequently results in cases where development needs to be halted or backtracked.
+    - If the combination of time boxes may cause degradation that cannot be detected by automated testing to occur in the content, a time box for testing should be added at the end.
+- Documentation
+    - No difference.
+    - Programming and documentation do not need to be done in any particular order, as they are both done at the same time in the time boxes. If documentation can be done later, this reduces the number of cases in which backtracking is needed to correct the documents due to design errors that are noticed during programming.
+- Spikes
+    - For functions with a high degree of difficulty and patterns that are being encountered for the first time, scaling should be done to enable feasibility as soon as possible.
+- Pair programming
+    - There is no firm rule that developers must work in pairs at all times as the effects of pair programming vary significantly depending on the skills of the pair and the difficulty level of the function.
+    - How each task should be carried out is a matter of when the work will be looked at by a third party.
+    - The completion conditions of tasks should be to go through a pair review, as a third party looks over the task's completion requirements as early as possible.
+    - As a result, pairs should be decided carefully so that two apprentices are not paired together. In other words, while the whole of the team does not need to have exceptionally high skills, it is not possible to use a team where more than half of the members are apprentices.
+- Scrum master
+    - If there’s one thing that is true, the more the development team can focus on development, the more productive they will be.
+    - Creating a boundary between the team and external parties is important for all processes.
+- Entry/exit of phases
+    - Phases assessments are used to assess whether all of the tasks that must be done in a phases have been completed, whether any issues remain and if so, whether they are likely to be solved.
+    - If tasks are being executed in time boxes, entry/exit assessments should be done in sprint planning meetings and sprint reviews.
+    - An agreement should be reached at the beginning so that exhaustive materials do not need to be created for these assessments. Make sure that all tools that are usually used are covered.
+- Budgeting
+    - For new projects, it is unwise to start without deciding on a budget, regardless of the nature of the development process.
+    - For enhancement development, developers tend to become optimistic that the work can be done in a few man-months, but it is, of course, still necessary to set objectives to ensure a return on the invested costs.
+- Contract
+    - A contract does not bind the development process.
+    - With that said, requirement definitions should not be included in phases to which this development process is applied.
+- Structure
+    - Teambuilding is costly, so if possible it is best to avoid creating a new structure for each project and adding new team members in response to large development workloads.
+    - Frameworks should have as few peaks and troughs as possible. Productivity is higher when teams with the same members work together for as long as possible.
