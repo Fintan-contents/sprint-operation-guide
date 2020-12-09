@@ -19,7 +19,7 @@ Software development should not be done two-dimensionally with agile and waterfa
     - No difference.
     - Programming and documentation do not need to be done in any particular order, as they are both done at the same time in the time boxes. If documentation can be done later, this reduces the number of cases in which backtracking is needed to correct the documents due to design errors that are noticed during programming.
 - Spikes
-    - For functions with a high degree of difficulty and patterns that are being ed for the first time, scaling should be done to enable feasibility as soon as possible.
+    - For functions with a high degree of difficulty and patterns that are being implemented for the first time, scaling should be done to enable feasibility as soon as possible.
 - Pair programming
     - There is no firm rule that developers must work in pairs at all times as the effects of pair programming vary significantly depending on the skills of the pair and the difficulty level of the function.
     - How each task should be carried out is a matter of when the work will be looked at by a third party.
