@@ -23,7 +23,7 @@ Software development should not be done two-dimensionally with agile and waterfa
 - Pair programming
     - There is no firm rule that developers must work in pairs at all times as the effects of pair programming vary significantly depending on the skills of the pair and the difficulty level of the function.
     - How each task should be carried out is a matter of when the work will be looked at by a third party.
-    - The completion conditions of tasks should be to go through a pair review, as a third party looks over the task's completion requirements as early as possible.
+    - The completion conditions of tasks should be to go through a pair review, as a third party looks over the content of deliverables as early as possible.
     - As a result, pairs should be decided carefully so that two apprentices are not paired together. In other words, while the whole of the team does not need to have exceptionally high skills, it is not possible to use a team where more than half of the members are apprentices.
 - Scrum master
     - If there’s one thing that is true, the more the development team can focus on development, the more productive they will be.
@@ -36,7 +36,7 @@ Software development should not be done two-dimensionally with agile and waterfa
     - For new projects, it is unwise to start without deciding on a budget, regardless of the nature of the development process.
     - For enhancement development, developers tend to become optimistic that the work can be done in a few man-months, but it is, of course, still necessary to set objectives to ensure a return on the invested costs.
 - Contract
-    - A contract does not bind the development process.
+    - A contract does not constrain the development process.
     - With that said, requirement definitions should not be included in phases to which this development process is applied.
 - Structure
     - Teambuilding is costly, so if possible it is best to avoid creating a new structure for each project and adding new team members in response to large development workloads.
