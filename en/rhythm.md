@@ -34,7 +34,6 @@ Duration: 2 hours (for a two-week sprint)
 1. The development team indicates story points that will be covered in this sprint. This should generally be the same as the results of the previous sprint.
 1. The scrum team sets objectives to be accomplished during the sprint (sprint goals).
 1. The development team selects the stories necessary to accomplish the sprint goals according to the backlog and inputs them in the sprint backlog.
-1. Thank the participants for their hard work.
 
 ### Part 2
 
@@ -52,7 +51,6 @@ Reference: [Criteria for good tasks: **SMART**](./smart_tasks.md)
         - Therefore, any task that takes longer than five hours needs to be divided up.
 1. If the time required for a task cannot be estimated and other work depends on this task, the task should be added to impediments, rather than adding a buffer to the time estimate.
 1. Look at the total estimated time and judge whether the work can be completed during the sprint. Consult the product owner (or product manager) if there is a risk that it cannot be completed.
-1. Thank the participants for their hard work.
 
 ## Daily work
 
@@ -64,7 +62,6 @@ Reference: [Criteria for good tasks: **SMART**](./smart_tasks.md)
 1. Move each task to "Done" when it is completed.
 1. If any tasks are still in "Doing" at the end of the work day, update the working time and remaining time and return the tasks to "ToDo".   
     - Make sure not to leave any tasks in the "Doing" lane at the end of the work day.
-1. Thank the participants for their hard work.
 
 
 ## Product backlog refinement
@@ -99,7 +96,6 @@ Duration: 2 hours (for a two-week sprint)
 1. Ask for any opinions.
     - A representative records any opinions in the minutes. When there are no more opinions, proceed to the next step.
 1. Instruct the minute-taker to read the minutes aloud.
-1. Thank the participants for their hard work.
 
 ### After the review
 

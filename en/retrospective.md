@@ -44,7 +44,7 @@ This is a time for reflecting on what happened during the sprint. The following 
 Reflect using KPT.
 1. Determine whether the points decided on during the previous retrospective have been achieved (add these to Keep if they are judged to be effective).
 1. Seek fact-based data (events, completed functions, completed stories) and feeling-based data (how each team member felt about the points in the fact-based data).
-1. Write good points (Keep) and issues (Problems) on Post-It notes.
+1. Write good points (Keep) and issues (Problems) on sticky notes.
 1. Each team member announces their Keep and Problem points.
   * To maintain an atmosphere of "Problem vs. us", ask all members to gather around the board instead of sitting in their seats.
   * If multiple members have similar opinions, they should stack their Post-Its together in the same place.

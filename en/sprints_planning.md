@@ -2,7 +2,7 @@
 
 Make a sprint plan for the whole project.
 
-1. Make time boxes the length of each sprint.
+1. Create a timebox with a length of one sprint.
    - Each sprint should generally be two weeks long. Use one-week sprints if the scrum team is inexperienced.
    - If there are public holidays during a sprint, adjust the sprint so that there are at least eight business days.
    - Sprints should ideally start on the same day of the week, as this creates a predictable rhythm.
@@ -51,7 +51,7 @@ If the project as a whole is in waterfall model and sprints are only used for pa
 If these points are not taken into account when making the schedule, a simple failure to meet the estimates will require a report to the leaders or a new plan, and there is a high risk of a vicious cycle where work is repeatedly being rescheduled.
 
 1. It is important for progress to occur as planned, as the situation is judged according to the plan.
-  - Do not expect the same velocity from start to finish. It is common for velocity to decrease after starting.
+  - Do not expect the same velocity from start to finish. It is common for velocity to decrease at the beginning.
     - Velocity usually increases not as a result of the team becoming familiar with operating methods but for reasons such as gaining a deeper understanding of the requirements or design or becoming familiar with the development technology.
     - The degree to which velocity increases can be predicted by the gap between the knowledge and skills of the development team members and the knowledge and technical skills required for the project.
       - Taking measures to reduce this gap will increase velocity.

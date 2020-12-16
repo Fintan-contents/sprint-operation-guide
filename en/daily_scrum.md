@@ -10,7 +10,7 @@ Duration: 15 minutes
     - A group of 3 is possible if there is an odd number of team members.
 1. Assign tasks to pairs.
     - Assign 5 hours of work to pairs and 7.5 hours of work to any groups of 3.
-1. Retrospective of T for sprint.
+1. Retrospective of the Try that is added to the project wiki for sprint.
 1. If there are any amended tickets, confirm the number of items with the programmers responsible for those tickets.
 1. Confirm the following points in the list of risks/list of issues.
     - Schedule

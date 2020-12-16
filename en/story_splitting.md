@@ -29,7 +29,7 @@ Story splitting cheat sheet
    * It is possible to post articles following a review by an editor.
    * It is possible to post articles following a review by the legal affairs department.
 
-* ### Splitting according to variations of operational rules
+* ### Splitting according to variations of business rules
 
  * #### Example story
 
